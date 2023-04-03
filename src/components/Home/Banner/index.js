@@ -1,5 +1,5 @@
 import React from 'react';
-import summerPic from '../../../assets/img/homeSummer.jpeg'
+import summerPic from '../../../assets/img/homeSummer.jpg'
 
 function Banner  ()  {
   return(

@@ -1,7 +1,7 @@
 import React from "react";
-import imageOne from "../../../assets/img/carousel-photoOne.jpeg";
+import imageOne from "../../../assets/img/carousel-photoOne.jpg";
 import imageTwo from "../../../assets/img/carousel-photoTwo.jpg";
-import imageThree from "../../../assets/img/carousel-photoThree.jpeg";
+import imageThree from "../../../assets/img/carousel-photoThree.jpg";
 import leftArrow from "../../../assets/img/left.png";
 import rightArrow from "../../../assets/img/right.png";
 

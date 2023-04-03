@@ -2,9 +2,9 @@ import React from 'react';
 import Hero from './Hero';
 import Banner from './Banner';
 import BannerCard from './BannerCard';
-import surfBoards from '../../assets/img/homeBannerOne.jpeg';
-import shoes from '../../assets/img/homeBannerTwo.jpeg';
-import shirts from '../../assets/img/homeBannerThree.jpeg';
+import surfBoards from '../../assets/img/homeBannerOne.jpg';
+import shoes from '../../assets/img/homeBannerTwo.jpg';
+import shirts from '../../assets/img/homeBannerThree.jpg';
 
 
 function Home () {
