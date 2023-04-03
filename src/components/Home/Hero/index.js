@@ -48,7 +48,7 @@ function Hero () {
       <div className="Slider__text">
         <p className="Slider__header">EXPERIENCE THE OCEAN ENTIRELY</p>
         <p className="Slider__header">DIFFERENTLY WITH</p>
-        <p className="Slider__header">ARC SURF</p>
+        <p className="Slider__header">SURFS UP</p>
       </div>
 
       <img

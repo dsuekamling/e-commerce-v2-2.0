@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 function BannerCard (props){
+  return(
   <div className="BannerCard">
     <img className="BannerCard__image" src={props.image} alt={props.descr} />
     <div className="BannerCard__content">
@@ -12,6 +13,6 @@ function BannerCard (props){
        </div>
     </div>
   </div>
-};
+)};
 
 export default BannerCard;

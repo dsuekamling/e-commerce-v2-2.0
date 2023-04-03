@@ -6,7 +6,7 @@ function Logo () {
   return(
   <Link to="/" className="Logo">
     <img src={logo} alt="Logo" className="Logo__image"/>
-    <p className="Logo__title">Arc Surf</p>
+    <p className="Logo__title">Surfs Up</p>
   </Link>
 )}
 

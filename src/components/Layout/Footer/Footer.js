@@ -11,8 +11,8 @@ function Footer () {
     </div>
 
     <div className="Footer__copyright">
-      <p  className="Footer__highlightText" >ARC SURF</p>
-      <p className="Footer__text">&copy; Copyright 2023 Arc Surf Inc.</p>
+      <p  className="Footer__highlightText" >SURFS UP</p>
+      <p className="Footer__text">&copy; Copyright 2023 Surfs Up Inc.</p>
       <p className="Footer__text">All rights reserved.</p>
     </div>
   </footer>
